@@ -8,4 +8,10 @@ A preview on how the landpage looks like on a desktop computer.
 
 # iPad Mini Preview
 ![Screenshot_4](https://github.com/guivictorfs/narutoLandingPage/assets/44769744/6cdb4c73-bb48-4461-b788-0a46e468caea)
+
 A preview on how the landpage looks like on an iPad Mini.
+
+#Mobile Preview
+![Screenshot_3](https://github.com/guivictorfs/narutoLandingPage/assets/44769744/941e0433-5d67-4b6f-ab28-7d08b0ba635e)
+
+A preview on how the landpage looks like on a Galaxy A51.
