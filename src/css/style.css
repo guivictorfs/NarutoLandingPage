@@ -47,7 +47,6 @@ main::after {
   font-family: "Secular One";
   font-weight: 400;
   margin-bottom: 1.25rem;
-  background-color: rgba(0, 0, 0, 0.3);
 }
 
 .content .characterDescription {
@@ -55,7 +54,6 @@ main::after {
   font-family: "Rubik";
   font-size: 1rem;
   line-height: 1.5rem;
-  background-color: rgba(0, 0, 0, 0.3);
 }
 
 .content .logo {
